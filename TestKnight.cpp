@@ -1,7 +1,6 @@
 //TestKnight.cpp file
 //Description: This class finds the shortest path of a knight from one postion to another
 //Author: Aaryan Gupta
-//Creation Date: July 28, 2021
 
 
 #include<iostream>
